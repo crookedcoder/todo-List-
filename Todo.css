@@ -1,0 +1,10 @@
+#container{
+    background-color: honeydew;
+    width: 360px;
+    margin:0 auto;
+    border: 2px solid gainsboro;
+}
+.completed{
+    color: gray;
+    text-decoration:line-through;
+}
